@@ -18,10 +18,9 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/
 
 Das SPZ Ehrenfeld Köln bietet das Gruppenprogramm "In Würde zu sich stehen" ab dem 23.3.2021 an 4 Terminen jeweils Dienstag von 14 bis 16 Uhr __als Online-Seminar__ an. Wenn sie teilnehmen möchten, können sie sich hier [per email anmelden](mailto:zu.sich.stehen@inwuerde.de?subject=AnmeldungIWS).
 
-Experimentell: Wir planen in Zukunft [Huddle01](https://beta.huddle01.com/) für die Videokonferenz zu nutzen, da sie als reine peer2peer-Videokonferenz ohne zentrale Server auskommt und somit [datenschutztechnisch sicher](https://medium.com/huddle-01/privacy-and-security-at-huddle-01-9e11d5fcc385) ist.
-
 ## vergangene Seminare
 
+- IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
 
 ## über mich
