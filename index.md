@@ -31,3 +31,5 @@ Ich - Thomas R., 56 Jahre alt und tätig als Genesungsbegleiter in Köln - war s
 Das folgende Video von Kevin Barhydt beschreibt sehr gut was so ähnlich auch mir widerfahren ist und wo der Genesungsweg verlaufen kann. Es ist auch ein kraftvolles Beispiel, was es heißt, __In Würde zu sich zu stehen__:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfDznqad-AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ich möchte über zukünftige Termine des Seminars __In Würde zu sich stehen__ [informiert werden](mailto:info@inwuerde.de?subject=InteressentInIWS).
