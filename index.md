@@ -18,7 +18,7 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/
 
 Das SPZ Ehrenfeld Köln des [Kölner Verein für Rehabilitation e.V](https://www.koelnerverein.de/) bietet das Gruppenprogramm "In Würde zu sich stehen" ab dem 27.4.2021 an 4 Terminen jeweils Dienstag von 14 bis 16 Uhr __als Online-Seminar__ an. Wenn sie teilnehmen möchten, können sie sich hier [per email anmelden](mailto:zu.sich.stehen@inwuerde.de?subject=AnmeldungIWS).
 
-Das Seminar, das am 23.3.2021 beginnt, ist ausgebucht. [warteliste](mailto:zu.sich.stehen@inwuerde.de?subject=Anmeldung23.3.Warteliste).
+Das Seminar, das am 23.3.2021 beginnt, ist ausgebucht.
 ## vergangene Seminare
 
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
