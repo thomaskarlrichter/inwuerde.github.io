@@ -12,7 +12,7 @@ Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit
 der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
 Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kollegen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von 
-[Prof. Nicolas Rüsch Univ.-Ulm](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html/) 
+[Prof. Nicolas Rüsch Univ.-Ulm](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) 
 ins Deutsche übertragen und seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
