@@ -24,6 +24,10 @@ Das Seminar, das am 23.03.2021 beginnt, ist ausgebucht.
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
 
+## Aufnahme in die Interessentenliste
+
+Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
+
 ## über mich
 
 Ich - Thomas R., 56 Jahre alt und tätig als Genesungsbegleiter in Köln - war seit über 20 Jahren immer wieder von Depressionen und Angstattacken betroffen. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon insgesamt acht mal in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Ich habe lange nicht verstanden, wir es zu diesen Erkrankungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. Als Beispiel möchte ich das Video eines früh adoptierten Kindes zeigen.
@@ -31,5 +35,3 @@ Ich - Thomas R., 56 Jahre alt und tätig als Genesungsbegleiter in Köln - war s
 Das folgende Video von Kevin Barhydt beschreibt sehr gut was so ähnlich auch mir widerfahren ist und wo der Genesungsweg verlaufen kann. Es ist auch ein kraftvolles Beispiel, was es heißt, __In Würde zu sich zu stehen__:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfDznqad-AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Ich möchte über zukünftige Termine des Seminars __In Würde zu sich stehen__ [informiert werden](mailto:info@inwuerde.de?subject=InteressentInIWS).
