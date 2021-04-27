@@ -12,17 +12,16 @@ Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit
 der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
 Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kollegen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von 
-[Prof. Nicolas Rüsch Univ.-Ulm](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) 
+[Nicolas Rüsch Univ.-Ulm](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) und Kolleginnen
 ins Deutsche übertragen und seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-Das SPZ Ehrenfeld Köln des [Kölner Verein für Rehabilitation e.V](https://www.koelnerverein.de/aktuelles.html#info-608) bietet das Gruppenprogramm "In Würde zu sich stehen" ab dem 27.4.2021 an 4 Terminen jeweils Dienstag von 14 bis 16 Uhr __als Online-Seminar__ an. Wenn sie teilnehmen möchten, können sie sich hier [per email anmelden](mailto:zu.sich.stehen@inwuerde.de?subject=AnmeldungIWS).
-
-Das Seminar, das am 23.03.2021 beginnt, ist ausgebucht.
+Das Seminar, das am 27.04.2021 beginnt, ist ausgebucht.
 ## vergangene Seminare
 
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
+- IWS 23.03. bis 20.04.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 
 ## Aufnahme in die Interessentenliste
 
