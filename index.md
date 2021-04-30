@@ -27,9 +27,12 @@ Das Seminar, das am 27.04.2021 beginnt, ist ausgebucht.
 
 Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
 
-## über mich
+## Für (sozial)psychiatrische Einrichtungen
 
-Ich - Thomas R., 56 Jahre alt und tätig als Genesungsbegleiter in Köln - war seit über 20 Jahren immer wieder von Depressionen und Angstattacken betroffen. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon insgesamt acht mal in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Ich habe lange nicht verstanden, wir es zu diesen Erkrankungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. Als Beispiel möchte ich das Video eines früh adoptierten Kindes zeigen.
+Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=AnfrageIWS).
+## Über mich persönlich
+
+Ich - Thomas R., 56 Jahre alt bin ein Diplompsychologe mit eigener Erfahrung. Ich arbeite als Genesungsbegleiter in Köln - war in meinem Leben über 20 Jahren lange immer wieder von Depressionen und Angstattacken beeinträchtigt. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon mehrfach in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Die Kraft von Recovery lernte ich in verschiedenen Selbsthilfegruppen des 12-Schritte-Programms kennen. Ich habe lange nicht verstanden, wir es zu meinen Erfahrungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. Als Beispiel möchte ich das Video eines früh adoptierten Kindes zeigen.
 
 Das folgende Video von Kevin Barhydt beschreibt sehr gut was so ähnlich auch mir widerfahren ist und wo der Genesungsweg verlaufen kann. Es ist auch ein kraftvolles Beispiel, was es heißt, __In Würde zu sich zu stehen__:
 
