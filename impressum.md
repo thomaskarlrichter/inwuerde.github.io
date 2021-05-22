@@ -5,7 +5,7 @@ title: Impressum
 
 # Kontakt
 
-> Thomas Richter<br>
+> Dipl-Psych. Thomas Richter<br>
 > Genesungsbegleiter<br>
 > Sozial Psychiatrisches Zentrum (SPZ) Köln-Ehrenfeld<br>
 > Philippstraße 72–74<br>
