@@ -17,12 +17,7 @@ ins Deutsche übertragen und seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
 Das nächste Online-Seminar  __In Würde zu sich stehen__
-besteht aus 4 Teilen. Es beginnt am 29. 06. 2021 und findet an den folgenden Terminen statt:
-
-- 29. 06. 2021 14:00 - 16:00
-- 06. 07. 2021 14:00 - 16:00
-- 13. 07. 2021 14:00 - 16:00
-- 20. 07. 2021 14:00 - 16:00
+besteht aus 4 Teilen. Es beginnt am 29. 06. 2021 und findet an den folgenden Terminen statt: 29. 06. 2021 von 14:00 - 16:00, 06. 07. 2021 von 14:00 - 16:00, 13. 07. 2021 von 14:00 - 16:00 und 20. 07. 2021 von 14:00 - 16:00.
 
 Für die Anmeldung zu diesem Seminar [klicken Sie hier](mailto:info@inwuerde.de?subject=Anmeldung29.06.21IWS).
 
