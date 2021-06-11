@@ -19,7 +19,8 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/
 Das nächste Online-Seminar  __In Würde zu sich stehen__
 besteht aus 4 Teilen. Es beginnt am 29. 06. 2021 und findet an den folgenden Terminen statt: 29. 06. 2021 von 14:00 - 16:00, 06. 07. 2021 von 14:00 - 16:00, 13. 07. 2021 von 14:00 - 16:00 und 20. 07. 2021 von 14:00 - 16:00.
 
-Für die Anmeldung zu diesem Seminar [klicken Sie hier](mailto:info@inwuerde.de?subject=Anmeldung29.06.21IWS).
+Das Seminar ist bereits ausgebucht. Sie können sich aber gern auf die [Warteliste](mailto:info@inwuerde.de?subject=Warteliste29.06.21IWS) setzen, wenn ein Platz frei wird, sind sie dabei. Oder wenn sie über zukünftige Termine (ab September) des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
+
 
 ## vergangene Seminare
 
