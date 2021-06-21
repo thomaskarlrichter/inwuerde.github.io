@@ -11,10 +11,10 @@ um sie bei Offenlegungsentscheidungen zu unterstützen.
 Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der Überwindung
 der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
-Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kollegen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von 
-[Nicolas Rüsch Univ.-Ulm](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) und Kolleginnen
-ins Deutsche übertragen und seine Wirksamkeit wurde wissenschaftlich
-nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
+Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von 
+[Nicolas Rüsch  und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html)
+ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
+nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
 Das nächste Online-Seminar  __In Würde zu sich stehen__
 besteht aus 4 Teilen. Es beginnt am 29. 06. 2021 und findet an den folgenden Terminen statt: 29. 06. 2021 von 14:00 - 16:00, 06. 07. 2021 von 14:00 - 16:00, 13. 07. 2021 von 14:00 - 16:00 und 20. 07. 2021 von 14:00 - 16:00.
