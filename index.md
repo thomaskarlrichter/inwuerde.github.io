@@ -29,6 +29,7 @@ Das Seminar ist bereits ausgebucht. Sie können sich aber gern auf die [Wartelis
 - IWS 23.03. bis 20.04.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 27.04. bis 18.05.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
+
 ## Aufnahme in die Interessentenliste
 
 Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
