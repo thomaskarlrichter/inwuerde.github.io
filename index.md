@@ -21,8 +21,6 @@ besteht aus 4 Teilen. Es beginnt am 23. 09. 2021 und findet an den folgenden Ter
 
 Für die Anmeldung zu diesem Seminar [klicken Sie hier](mailto:info@inwuerde.de?subject=AnmeldungSeptember.21IWS).
 
-Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
-
 ## vergangene Seminare und Vorträge
 
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
