@@ -17,7 +17,7 @@ ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
 Das nächste Online-Seminar  __In Würde zu sich stehen__
-besteht aus 4 Teilen. Es beginnt am 29. 06. 2021 und findet an den folgenden Terminen statt: 29. 06. 2021 von 14:00 - 16:00, 06. 07. 2021 von 14:00 - 16:00, 13. 07. 2021 von 14:00 - 16:00 und 20. 07. 2021 von 14:00 - 16:00.
+besteht aus 4 Teilen. Es beginnt am 23. 09. 2021 und findet an den folgenden Terminen statt: 23. 09. 2021 von 14:00 - 16:00, 30. 09. 2021 von 14:00 - 16:00, 07. 10. 2021 von 14:00 - 16:00 und 14. 10. 2021 von 14:00 - 16:00.
 
 Das Seminar ist bereits ausgebucht. Sie können sich aber gern auf die [Warteliste](mailto:info@inwuerde.de?subject=Warteliste29.06.21IWS) setzen, wenn ein Platz frei wird, sind sie dabei. Oder wenn sie über zukünftige Termine (ab September) des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
 
@@ -29,6 +29,7 @@ Das Seminar ist bereits ausgebucht. Sie können sich aber gern auf die [Wartelis
 - IWS 23.03. bis 20.04.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 27.04. bis 18.05.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
+- IWS 29.06. bis 20.07.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 
 ## Aufnahme in die Interessentenliste
 
