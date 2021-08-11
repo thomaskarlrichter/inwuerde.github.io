@@ -19,8 +19,9 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 Das nächste Online-Seminar  __In Würde zu sich stehen__
 besteht aus 4 Teilen. Es beginnt am 23. 09. 2021 und findet an den folgenden Terminen statt: 23. 09. 2021 von 14:00 - 16:00, 30. 09. 2021 von 14:00 - 16:00, 07. 10. 2021 von 14:00 - 16:00 und 14. 10. 2021 von 14:00 - 16:00.
 
-Das Seminar ist bereits ausgebucht. Sie können sich aber gern auf die [Warteliste](mailto:info@inwuerde.de?subject=Warteliste29.06.21IWS) setzen, wenn ein Platz frei wird, sind sie dabei. Oder wenn sie über zukünftige Termine (ab September) des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
+Für die Anmeldung zu diesem Seminar [klicken Sie hier](mailto:info@inwuerde.de?subject=AnmeldungSeptember.21IWS).
 
+Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
 
 ## vergangene Seminare und Vorträge
 
@@ -38,6 +39,7 @@ Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ inf
 ## Für (sozial)psychiatrische Einrichtungen
 
 Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=AnfrageIWS).
+
 ## Über mich persönlich
 
 Ich - Thomas R., 56 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung. Ich arbeite zur Zeit als Genesungsbegleiter in Köln und war in meinem Leben über 20 Jahren lange immer wieder von Depressionen und Angstattacken beeinträchtigt. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon mehrfach in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen.
