@@ -16,10 +16,14 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-Das nächste Online-Seminar  __In Würde zu sich stehen__
+Das aktuelle laufende Online-Seminar  __In Würde zu sich stehen__
 besteht aus 4 Teilen. Es beginnt am 23. 09. 2021 und findet an den folgenden Terminen statt: 23. 09. 2021 von 14:00 - 16:00, 30. 09. 2021 von 14:00 - 16:00, 07. 10. 2021 von 14:00 - 16:00 und 14. 10. 2021 von 14:00 - 16:00.
 
-Für die Anmeldung zu diesem Seminar [klicken Sie hier](mailto:info@inwuerde.de?subject=AnmeldungSeptember.21IWS).
+## aktuelle Vorträge
+
+- [Vortrag am 15.10.2021 12 - 13 Uhr im Gesundheitsamt Köln](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
+) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
+- Vorstellung von IWS am 1.2.2022 in der VHS Köln Mühlheim
 
 ## vergangene Seminare und Vorträge
 
