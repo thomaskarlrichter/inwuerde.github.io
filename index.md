@@ -21,7 +21,7 @@ besteht aus 4 Teilen. Es beginnt am 23. 09. 2021 und findet an den folgenden Ter
 
 ## aktuelle Vorträge
 
-- [Vortrag am 15.10.2021 12 - 13 Uhr im Gesundheitsamt Köln](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
+- [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
 - Vorstellung von IWS am 1.2.2022 in der VHS Köln Mühlheim
 
