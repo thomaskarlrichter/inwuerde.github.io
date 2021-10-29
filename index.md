@@ -47,5 +47,3 @@ Ich - Thomas R., 56 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung. I
 Ich habe lange nicht verstanden, wir es zu meinen Erfahrungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. Als Beispiel möchte ich das Video eines früh adoptierten Kindes zeigen.
 
 Das folgende Video von Kevin Barhydt beschreibt sehr gut was so ähnlich auch mir widerfahren ist und wo der Genesungsweg verlaufen kann. Es ist auch ein kraftvolles Beispiel, was es heißt, __In Würde zu sich zu stehen__:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfDznqad-AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
