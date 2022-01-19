@@ -15,7 +15,7 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-## zukünftige Seminare
+## aktuelle Seminare
 
 Das nächste Seminar findet vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr als Zoom-Online-Seminar statt. [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_1_22).
 
