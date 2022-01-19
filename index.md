@@ -29,14 +29,15 @@ Das nächste Seminar findet vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr 
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
 - IWS 23.03. bis 20.04.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 27.04. bis 18.05.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
-- Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
 - IWS 29.06. bis 20.07.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 23.09. bis 14.10.2021 Online
 
 ## vergangene Vorträge
 
+- Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
 - [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
+- Vortrag am 11.11.2021 vor dem Vorstand der AGpR in Hilden (via Zoom)
 
 ## Aufnahme in die Interessentenliste
 
