@@ -21,7 +21,8 @@ Das nächste Seminar findet vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr 
 
 ## aktuelle Vorträge
 
-- Vorstellung von IWS am 1.2.2022 in der VHS Köln Mühlheim
+- Vorstellung von IWS am 01.02.2022 in der *VHS Köln Mühlheim*
+- Einführung in das Seminar IWS am 11.02.2022 im Leitungsgremium des *Verbunds für Psychosoziale Dienstleistungen gGmbH* Mettmann
 
 ## vergangene Seminare
 
