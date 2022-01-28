@@ -19,6 +19,7 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 
 - IWS 5 Online vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_1_22).
 - IWS 6 Online vom 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_6).
+
 ## aktuelle Vorträge
 
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
