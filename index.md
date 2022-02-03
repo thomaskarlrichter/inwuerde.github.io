@@ -17,12 +17,11 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 
 ## aktuelle Seminare
 
-- IWS 5 Online vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_1_22).
+- IWS 5 Online vom 16.02.2022 bis 09.03.2022 jeweils 18 bis 20 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_5).
 - IWS 6 Online vom 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_6).
 
 ## aktuelle Vorträge
 
-- Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 - Einführung in das Seminar IWS am 11.02.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann
 
 ## vergangene Seminare
@@ -40,6 +39,7 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 - [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
 - Vortrag am 11.11.2021 vor dem __Vorstand der AGpR__ in Hilden (via Zoom)
+- Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 
 ## Aufnahme in die Interessentenliste
 
@@ -49,8 +49,12 @@ Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ inf
 
 Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=AnfrageIWS).
 
+## Intervisionsgruppe IWS
+
+Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
+
 ## Über mich persönlich
 
-Ich - Thomas R., 57 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung. Ich arbeite zur Zeit als Genesungsbegleiter in Köln und war in meinem Leben über 20 Jahren lange immer wieder von Depressionen und Angstattacken beeinträchtigt. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon mehrfach in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen.
+Ich - Thomas Richter, 57 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung einer psychischen Erkrkankung. Ich arbeite zur Zeit als Genesungsbegleiter in Köln und war in meinem Leben über 20 Jahren lange immer wieder von Depressionen und Angstattacken beeinträchtigt. Diese Symptome haben dazu geführt, dass ich in meinem Leben schon mehrfach in psychosomatischen oder psychiatrischen stationären bzw. tagesklinischen Einrichtungen behandelt wurde. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen.
 
 Ich habe lange nicht verstanden, wir es zu meinen Erfahrungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. 
