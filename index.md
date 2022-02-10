@@ -22,7 +22,7 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 
 ## aktuelle Vorträge
 
-- Einführung in das Seminar IWS am 11.02.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann
+- Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann
 
 ## vergangene Seminare
 
