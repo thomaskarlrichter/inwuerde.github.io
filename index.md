@@ -38,7 +38,7 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 - Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
 - [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
-- Vortrag am 11.11.2021 vor dem __Vorstand der AGpR__ in Hilden (via Zoom)
+- Vortrag am 11.11.2021 vor dem __Vorstand der Arbeitsgemeinschaft Gemeindepsychiatrie Rheinland e.V.__ in Hilden (via Zoom)
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 
 ## Aufnahme in die Interessentenliste
