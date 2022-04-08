@@ -29,7 +29,6 @@ Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. Bei Interesse 
 
 ## aktuelle Vorträge
 
-- Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann
 
 ## vergangene Seminare
 
@@ -48,6 +47,7 @@ Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. Bei Interesse 
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
 - Vortrag am 11.11.2021 vor dem __Vorstand der Arbeitsgemeinschaft Gemeindepsychiatrie Rheinland e.V.__ in Hilden (via Zoom)
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
+- Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann ([Präsentation](https://www.canva.com/design/DAE9SjDaopA/p2XjPElLGdmuVhg5T_F7aA/view?utm_content=DAE9SjDaopA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 ## Aufnahme in die Interessentenliste
 
