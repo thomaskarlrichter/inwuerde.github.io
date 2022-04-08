@@ -25,7 +25,7 @@ Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. Bei Interesse 
 - IWS 6 Online vom 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_6).
 - IWS 7 Online vom 20.07.2022 bis 10.08.2022 Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_7).
 - IWS 8 Online vom 21.09.2022 bis 12.10.2022 Mittwochs jeweils 17 bis 19 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_8).
-- IWS 6 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
+- IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
 
 ## aktuelle Vorträge
 
