@@ -15,7 +15,6 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-
 ## Neu Selbsthilfgegruppe IWS (Zoom)
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
@@ -24,6 +23,7 @@ Die nächsten Termine sind: 8.6., 22.6., 6.7., 20.7., 3.8., 17.8., 31.8., 14.9.,
 12.10., 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
 
 Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:info@inwuerde.de?subject=IWS_SHG).
+
 ## aktuelle Seminare
 
 - IWS 6 Online vom 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_6).
