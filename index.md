@@ -15,7 +15,7 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-## Neu Selbsthilfgegruppe IWS (Zoom)
+## Selbsthilfgegruppe IWS (Zoom)
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
