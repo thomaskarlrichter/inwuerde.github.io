@@ -15,6 +15,10 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
+## Arbeitsgruppe IWS in Köln
+
+In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
+
 ## Selbsthilfgegruppe IWS (Zoom)
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
@@ -26,7 +30,6 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## aktuelle Seminare
 
-- IWS 6 Online vom 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_6).
 - IWS 7 Online vom 20.07.2022 bis 10.08.2022 Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_7).
 - IWS 8 Online vom 21.09.2022 bis 12.10.2022 Mittwochs jeweils 17 bis 19 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_8).
 - IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
@@ -44,6 +47,7 @@ Zur Zeit sind keine Vorträge geplant.
 - IWS 29.06. bis 20.07.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 23.09. bis 14.10.2021 Online
 - IWS 16.02.2022 bis 09.03.2022 als Zoom-Online-Seminar
+- IWS 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) als Zoom-Online-Seminar
 
 ## vergangene Vorträge
 
