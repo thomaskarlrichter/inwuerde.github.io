@@ -70,6 +70,8 @@ Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken 
 
 Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
 
+Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt.
+
 ## Über mich persönlich
 
 Ich - Thomas Richter, 57 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung einer psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium über die Arbeit in der psychologischen und KI-Forschung zur Softwareentwicklung in mehreren Start-Ups. Ich war jedoch in dieser Tätgkeit immer wieder durch Depressionen und Angststörungen beeinträchtigt. Diese Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und die Symptome haben dazu geführt, dass ich wiederholt in psychosomatischen oder psychiatrischen Einrichtungen behandelt wurde.
