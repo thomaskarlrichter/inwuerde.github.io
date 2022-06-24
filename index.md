@@ -5,7 +5,7 @@ title: In Würde zu sich stehen
 
 ![logo](/assets/images/logo-iws.png)
 
-Das Seminar __In Würde zu sich stehen__ ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
+Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
 
 Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der Überwindung
 der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
@@ -18,6 +18,11 @@ nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Da
 ## Arbeitsgruppe IWS in Köln
 
 In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
+
+## IWS betroffene Profis (PsychologInnen, PsychotherapeutInnen, Psychiater, ...)
+
+Sich mit seiner eigenen Betroffenheit psychischer Erschütterung zu zeigen, ist in helfenden Berufen allgemein, aber insbesondere bei Herfern, die psychotherapeutisch arbeiten in Deutschland immer noch ein großes Tabu. In UK exisitiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [In2gr8mentalhealt](https://www.in2gr8mentalhealth.com). Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
+Wir treffen uns zu unseren konstituierenden Zusammenkunft am 20.10.2022 um 16 Uhr im Zoom. Selbst betroffene InteressentInnen an diesem Austausch können mit uns gern per [Email](mailto:info@inwuerde.de?subject=IWS_betroffene_Profis) Kontakt aufnehmen.
 
 ## Selbsthilfgegruppe IWS (Zoom)
 
