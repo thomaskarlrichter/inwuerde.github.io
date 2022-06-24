@@ -4,7 +4,7 @@ title: In Würde zu sich stehen
 ---
 ![logo](/assets/images/logo-iws.png) 
 
-[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision)
+[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio)
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
 
@@ -81,7 +81,7 @@ Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das S
 Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt.
 [[^]](#top)
 
-## Über mich persönlich
+## <a name="bio">Über mich persönlich
 
 Ich - Thomas Richter, 57 Jahre alt bin ein Diplom-Psychologe mit eigener Erfahrung einer psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium über die Arbeit in der sozialpsychologischen Forschung in einem Graduiertenkolleg für Kognitionswissenschaften über ein innovatives Forschungs- und Pilotrojekt einer virtuellen Selbsthilfegruppe für Kinder und Jugendliche mit Diabetes Typ 1 zur Softwareentwicklung in mehreren Start-Ups. Ich war jedoch in dieser Tätgkeit als Softwareentwickler immer wieder durch Depressionen und Angststörungen in der Arbeit beeinträchtigt. Diese Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und die Symptome haben dazu geführt, dass ich wiederholt in psychosomatischen oder psychiatrischen Einrichtungen behandelt wurde. ich weiss also, wie sich Depression und Angststörung von innen anfühlen. Ich habe viel über die Kraft sozialer Unterstützung im Recovery-Prozess und die Selbstorganisation der Selbsthilfe-Szene gelernt. Gerade in den anonymen Gruppen ist so ein starker Spirit vorhanden, ohne den es vielen Menschen deutlich schlechter ginge. Und das ganz ohne Profis. Alle sind auf Augenhöhe. Aber darüber ist in der Psychiatrie und der Gesellschaft sehr wenig bekannt.
 
