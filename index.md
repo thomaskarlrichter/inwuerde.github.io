@@ -4,7 +4,7 @@ title: In Würde zu sich stehen
 ---
 ![logo](/assets/images/logo-iws.png) 
 
-<a name="top"></a>  [Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision)
+[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision)
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
 
