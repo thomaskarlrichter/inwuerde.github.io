@@ -66,6 +66,11 @@ Zur Zeit sind keine Vorträge geplant.
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 - Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann ([Präsentation](https://www.canva.com/design/DAE9SjDaopA/p2XjPElLGdmuVhg5T_F7aA/view?utm_content=DAE9SjDaopA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
+## Beiträge in sozialen Medien
+
+- [Blogartikel](https://sternenruferin.de/in-wuerde-zu-sich-stehen-ein-seminar-und-eine-lebenseinstellung/) über das Seminar IWS vom 2.11.2021
+- [Diskussionsveranstaltung auf Youtube](https://youtu.be/XpvQ7YD2kT4) von __never code alone__ am 6.7.2022 mit Roland Golla, Susanne Neunes und Thomas Richter.
+
 ## Aufnahme in die Interessentenliste
 
 Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS). [[^]](#top)
