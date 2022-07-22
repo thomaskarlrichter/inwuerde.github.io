@@ -43,7 +43,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## aktuelle Vorträge
 
-Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit](https://www.zi-mannheim.de/) in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der Klinik in Bad Herrenalb.
+Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit](https://www.zi-mannheim.de/) in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
 
 ## vergangene Seminare
 
