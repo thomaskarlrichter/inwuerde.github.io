@@ -1,35 +1,38 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang }}">
   <head>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' }}" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ '/assets/css/print.css' | relative_url }}"
+      media="print"
+    />
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
     <div id="container">
       <div class="inner">
-         
         <header>
-          <a name="top"></a><h1>{{ page.title }}</h1>
+          <a name="top"></a>
+          <h1>{{ page.title }}</h1>
         </header>
-        <section id="main_content">
-          {{ content }}
-        </section>
+        <section id="main_content">{{ content }}</section>
 
         <footer>
-		      <a href="/">Home</a> | <a href="datenschutz">Datenschutz</a> | <a href="impressum">Impressum</a>.
+          <a href="/">Home</a> | <a href="datenschutz">Datenschutz</a> |
+          <a href="impressum">Impressum</a>.
         </footer>
-
       </div>
     </div>
-
   </body>
 </html>
