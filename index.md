@@ -2,7 +2,7 @@
 layout: default
 title: In Würde zu sich stehen
 ---
-![logo](/assets/images/logo-iws.png) 
+![logo](/assets/images/logo-iws.png)
 
 [Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio)
 
