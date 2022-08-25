@@ -1,0 +1,25 @@
+{
+  "name": "inwuerde.github.io",
+  "version": "1.0.0",
+  "description": "the inwuerde.de blogsite",
+  "main": ".eleventy.js",
+  "scripts": {
+    "dev": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inwuerde/inwuerde.github.io.git"
+  },
+  "keywords": [],
+  "author": "Thomas Richter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inwuerde/inwuerde.github.io/issues"
+  },
+  "homepage": "https://github.com/inwuerde/inwuerde.github.io#readme",
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.3.3",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^13.0.1"
+  }
+}
